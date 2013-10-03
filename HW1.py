@@ -18,8 +18,8 @@ import math                     # makes the math.sqrt function available
 
 print "Problem 1 solution follows:"
 
-# ... write your code and comments here (and remove this line)
-
+print str (5.86+(math.sqrt(5.86**2-(4*8.5408)))/2)
+print str (5.86-(math.sqrt(5.86**2-(4*8.5408)))/2)
 
 ###
 ### Problem 2
@@ -27,10 +27,13 @@ print "Problem 1 solution follows:"
 
 print "Problem 2 solution follows:"
 
-# ... write your code and comments here (and remove this line)
+from hw1_test import *
+print a
+print b
+print c
+print d
+print e
 
-
-###
 ### Problem 3
 ###
 
