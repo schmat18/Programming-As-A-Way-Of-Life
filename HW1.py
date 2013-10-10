@@ -31,7 +31,7 @@ from hw1_test import *
 print a
 print b
 print c
-print d
+print dx
 print e
 
 ### Problem 3
