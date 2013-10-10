@@ -1,0 +1,10 @@
+Name: Ariel (Rel)
+Evergreen login: rozari15
+
+0/3
+
+1) prints answer but it's incorrect because you used 5.86 instead of -5.86
+2) didn't run, error with the typo.
+3) nonexistant.
+
+would have been good overall except for some small mistakes.
