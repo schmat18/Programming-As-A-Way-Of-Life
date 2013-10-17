@@ -1,3 +1,6 @@
 # Graded by Joshua Kendall
 # kenjos03
 
+import lab2.txt+*
+print n
+print "Hello World" * n
