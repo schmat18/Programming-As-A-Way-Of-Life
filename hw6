@@ -127,7 +127,7 @@ print int(KelvinToFahrenheit(505.78))
 print KelvinToFahrenheit(-5)
 
 
-This function will return: 
+This function will return the value: 
 32.0
 451
 Traceback (most recent call last):
